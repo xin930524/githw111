@@ -1,5 +1,5 @@
 $ git add .
-$ git commit -m"V2"
+$ git commit -m"鄭博允.txt"
 $ git branch -M main
 $ git remove add origin 鄭博允.txt
 $ git push -u origin main
